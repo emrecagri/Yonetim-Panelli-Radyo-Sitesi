@@ -1,0 +1,3 @@
+admin/vtbaglan.php dosyasýndaki, 
+admin/veritabaniniyedekle/index.php dosyasýný ve 
+admin/islemler klasöründeki baglan.php dosyasýndaki veritabaný bilgilerini deðiþtir
