@@ -1,4 +1,7 @@
-Arayüzünde otomatik değişen arkaplan resimleri ve alıntıları gösterebilen yönetim panelli radyo sitesi
+Arayüzünde otomatik değişen arkaplan resimleri ve alıntıları gösterebilen yönetim panelli radyo sitesi.
+
+Yönetim panelinden form ile veritabanına kayıt ettiğimiz alıntıları rastgele olarak anasayfada belli bir süre aralıklarla gösterecektir.
+Ziyaretçiler alıntı ekleme talebinde bulunduğu zaman ve mesaj gönderdikleri zaman yönetim panelinde görünecektir.
 
 # Siteyi çalıştırmak için
 aşağıdaki işlemleri yapın yoksa site düzgün çalışmayacaktır. 
