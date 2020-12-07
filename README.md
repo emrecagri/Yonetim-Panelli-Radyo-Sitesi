@@ -33,3 +33,9 @@ siteadi.com/admin adresinden giriş yapın
 
 Kullanıcı adı: mail@mail.mail
 Şifre: fg46dg4rt4
+
+---
+
+# Credits
+
+İş Takip Scripti: aksoyhlc.net
