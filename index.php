@@ -7,9 +7,6 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, shrink-to-fit=no">
-  <meta name="author" content="Eugenio Segala">
-  <meta name="description" content="An extremely easy and clear SlideShow Background dev in Vanilla JS.">
-  <meta name="keywords" content="javascript,background-image,slides,slider,slideshow,gallery,js">
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
