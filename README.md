@@ -1,3 +1,11 @@
+# Yönetim Panelli Radyo Sitesi Yazılımı
+
+<b>Kullanılan teknolojiler:</b> PHP, MySQL VERİTABANI, HTML, CSS, JAVASCRIPT
+
+<b>Özellikler:</b> Özellikler: Ziyaretçi tarafından mesaj ve öneri alıntı gönderme, Yönetici tarafından yönetim paneli ile alıntı oluşturma, düzenleme ve silme, Mesaj görüntüleme ve silme, Ziyaretçi geçmişi görüntüleme ve silme
+
+---
+
 Arayüzünde otomatik değişen arkaplan resimleri ve alıntıları gösterebilen yönetim panelli radyo sitesi.
 
 Yönetim panelinden form ile veritabanına kayıt ettiğimiz alıntıları rastgele olarak anasayfada belli bir süre aralıklarla gösterecektir.
