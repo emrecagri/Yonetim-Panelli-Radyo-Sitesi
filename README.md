@@ -36,6 +36,6 @@ Kullanıcı adı: mail@mail.mail
 
 ---
 
-# Yararlandığım Kaynaklar
+# Kullanılan Kaynaklar
 
 İş Takip Scripti: aksoyhlc.net
