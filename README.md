@@ -2,7 +2,7 @@
 
 <b>Kullanılan teknolojiler:</b> PHP, MySQL VERİTABANI, HTML, CSS, JAVASCRIPT
 
-<b>Özellikler:</b> Özellikler: Ziyaretçi tarafından mesaj ve öneri alıntı gönderme, Yönetici tarafından yönetim paneli ile alıntı oluşturma, düzenleme ve silme, Mesaj görüntüleme ve silme, Ziyaretçi geçmişi görüntüleme ve silme
+<b>Özellikler:</b> Ziyaretçi tarafından mesaj ve öneri alıntı gönderme, Yönetici tarafından yönetim paneli ile alıntı oluşturma, düzenleme ve silme, Mesaj görüntüleme ve silme, Ziyaretçi geçmişi görüntüleme ve silme
 
 ---
 
