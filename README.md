@@ -36,6 +36,23 @@ Kullanıcı adı: mail@mail.mail
 
 ---
 
+# Ekran Görüntüleri:
+
+<img src="Screenshots/Ekran Görüntüsü (109).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (110).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (111).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (112).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (113).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (114).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (115).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (116).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (117).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (118).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (119).png" height="450">
+<img src="Screenshots/Ekran Görüntüsü (120).png" height="450">
+
+---
+
 # Kullanılan Kaynaklar
 
 İş Takip Scripti: aksoyhlc.net
